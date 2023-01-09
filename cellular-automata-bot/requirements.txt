@@ -1,0 +1,4 @@
+PyTelegramBotAPI==4.9.0
+boto3~=1.26.35
+yandexcloud==0.194.0
+yandex~=0.0.2
